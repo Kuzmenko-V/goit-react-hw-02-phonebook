@@ -1,0 +1,9 @@
+.ContactList li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+}
+.ContactList button {
+  height: 20px;
+}
